@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowLight", "Assembly-CSharp.csproj", "{265C2AD0-2D89-4DC3-F73F-52184BB168D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265C2AD0-2D89-4DC3-F73F-52184BB168D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265C2AD0-2D89-4DC3-F73F-52184BB168D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265C2AD0-2D89-4DC3-F73F-52184BB168D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265C2AD0-2D89-4DC3-F73F-52184BB168D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

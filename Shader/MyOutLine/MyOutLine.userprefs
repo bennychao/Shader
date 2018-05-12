@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Outline\Outline2.shader">
+    <Files>
+      <File FileName="Assets\TestDepth\DepthDebugerEffectShader.shader" Line="59" Column="23" />
+      <File FileName="Assets\TestDepth\DepthDebuger.shader" Line="1" Column="28" />
+      <File FileName="..\..\MyShaders\CommonDirLitDemo.shader" Line="113" Column="10" />
+      <File FileName="Assets\TestDepth\ImageEffectTemplate.cs" Line="16" Column="3" />
+      <File FileName="Assets\Outline\MyOutLine.shader" Line="52" Column="47" />
+      <File FileName="Assets\Outline\Outline2.shader" Line="20" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyOutLine" expanded="True" selected="True">
+            <Node name="Assembly-CSharp" expanded="True" />
+            <Node name="Assembly-CSharp-Editor-firstpass" expanded="True" />
+            <Node name="Assembly-CSharp-firstpass" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="MyOutLine" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
