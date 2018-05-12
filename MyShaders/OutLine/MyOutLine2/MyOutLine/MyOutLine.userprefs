@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PostOutline\ShowPlaneColor.shader">
+    <Files>
+      <File FileName="Assets\PostOutline\ShowPlaneColor.shader" Line="5" Column="40" />
+      <File FileName="Assets\PostOutline\SobleImageEffectShaderWithBloom.shader" Line="347" Column="70" />
+      <File FileName="Assets\PostOutline\SobleImageEffectShader.shader" Line="1" Column="1" />
+      <File FileName="Assets\TestDepth\ImageEffectTemplate.cs" Line="1" Column="1" />
+      <File FileName="Assets\PostOutline\SobleWithBloomOptimized.cs" Line="113" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyOutLine" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="PostOutline" expanded="True" />
+              <Node name="TestDepth" expanded="True" />
+            </Node>
+            <Node name="Assembly-CSharp-Editor-firstpass" expanded="True" />
+            <Node name="Assembly-CSharp-firstpass" expanded="True">
+              <Node name="PostOutline" expanded="True">
+                <Node name="ShowPlaneColor.shader" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="MyOutLine" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

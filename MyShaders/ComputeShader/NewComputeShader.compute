@@ -1,0 +1,26 @@
+﻿// Each #kernel tells which function to compile; you can have many kernels
+#pragma kernel CSMain
+
+// Create a RenderTexture with enableRandomWrite flag and set it
+// with cs.SetTexture
+RWTexture2D<float4> Result;
+RWStructuredBuffer<int> P;//float3 可以是上面的PP，那么P[id].position这么调用了，不过我这儿用不着。
+
+[numthreads(1,1,1)]
+void CSMain (uint3 id : SV_DispatchThreadID)
+{
+	// TODO: insert actual code here!
+	  
+	//float a = P[1];
+			///GroupMemoryBarrierWithGroupSync();
+			
+			//InterlockedAdd(1, P[1], P[1]);
+			AllMemoryBarrier();
+	//P[1] += 1;
+	P[2] += 1;
+	P[0] += 1;
+
+	InterlockedAdd(P[1], 1);
+	//InterlockedAdd(P[2], 1);
+	//Result[id.xy] = float4(id.x & id.y, (id.x & 15)/15.0, (id.y & 15)/15.0, 0.0);
+}

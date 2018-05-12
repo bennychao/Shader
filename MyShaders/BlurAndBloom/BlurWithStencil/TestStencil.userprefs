@@ -1,0 +1,47 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MobileBlurWithStencil.shader">
+    <Files>
+      <File FileName="Assets\TestUnityStencil\Shader2.shader" Line="1" Column="1" />
+      <File FileName="Assets\TestUnityStencil\TestObjShader1.shader" Line="1" Column="1" />
+      <File FileName="D:\WorkData\Unity Lib\MyShaders\VolumeLightShader\Assets\Scripts\VolumeEffect.cs" Line="49" Column="1" />
+      <File FileName="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" Line="3" Column="14" />
+      <File FileName="Assets\Standard Assets\Effects\ImageEffects\Scripts\BloomOptimized.cs" Line="53" Column="26" />
+      <File FileName="Assets\Scripts\ImageEffectTemplate.cs" Line="57" Column="4" />
+      <File FileName="Assets\Scripts\MobileBloomWithStencil.shader" Line="92" Column="38" />
+      <File FileName="Assets\Scripts\MobileBlurWithStencil.shader" Line="170" Column="29" />
+      <File FileName="Assets\Standard Assets\Effects\ImageEffects\Scripts\BlurOptimized.cs" Line="74" Column="93" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestStencil" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True" />
+            <Node name="Assembly-CSharp-Editor-firstpass" expanded="True" />
+            <Node name="Assembly-CSharp-firstpass" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MobileBlurWithStencil.shader" selected="True" />
+              </Node>
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Effects" expanded="True">
+                  <Node name="ImageEffects" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="TestStencil" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

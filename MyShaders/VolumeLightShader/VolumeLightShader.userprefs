@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\VolumeImageEffectShader.shader">
+    <Files>
+      <File FileName="Assets\Scripts\VolumeShader.shader" Line="115" Column="11" />
+      <File FileName="Assets\Scripts\VolumeCamera.cs" Line="5" Column="44" />
+      <File FileName="Assets\Scripts\VolumeEffect.cs" Line="57" Column="3" />
+      <File FileName="Assets\Scripts\VolumeImageEffectShader.shader" Line="75" Column="35" />
+      <File FileName="D:\WorkData\Unity Lib\MyShaders\HighFog-BluePrint-DepthDebuger\Assets\BluePrint\BluePrintImageEffectShader2.shader" Line="17" Column="4" />
+      <File FileName="D:\WorkData\Unity Lib\MyShaders\HighFog-BluePrint-DepthDebuger\Assets\HighFog\HighFogEffectShader.shader" Line="90" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VolumeLightShader" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="VolumeImageEffectShader.shader" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Assembly-CSharp-Editor" expanded="True" />
+            <Node name="Assembly-CSharp-firstpass" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="VolumeLightShader" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
